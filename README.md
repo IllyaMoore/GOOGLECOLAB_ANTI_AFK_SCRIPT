@@ -41,7 +41,7 @@ cd colab_keeper/src
 
 pip install -r requirements.txt
 
-#Open src/config.py and configure:
+# Open src/config.py and configure:
 
 COLAB_URL = "https://colab.research.google.com/"
 INTERVAL_SEC = 240
@@ -50,6 +50,5 @@ KEY_TO_PRESS = "SHIFT"
 # Run the script:
 
 python main.py
+```
 
-
-bash```
