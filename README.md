@@ -35,7 +35,7 @@ sudo apt install chromium-browser chromium-chromedriver -y
 # Clone the repository:
 
 git clone https://github.com/IllyaMoore/GOOGLECOLAB_ANTI_AFK_SCRIPT.git
-cd colab_keeper/src
+cd GOOGLECOLAB_ANTI_AFK_SCRIPT/src
 
 # Install dependencies:
 
